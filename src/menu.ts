@@ -1,4 +1,4 @@
-import { DataProvider} from './interfaces/dataProvider';
+import { DataProvider } from './interfaces/dataProvider';
 import { Player } from './interfaces/player';
 
 export class Menu {
