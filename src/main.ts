@@ -16,7 +16,7 @@ function showMenu() {
 
   rl.question("Seleccione una opción: ", (option) => {
     menu.handleUserInput(option);
-    showMenu(); 
+    showMenu();
   });
 }
 
