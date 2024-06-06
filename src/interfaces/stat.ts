@@ -1,4 +1,4 @@
 export interface Stat {
-  name: string;
-  stat: number;
-}
+    name: string;
+    stat: number;
+  }
